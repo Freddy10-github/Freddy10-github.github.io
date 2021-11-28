@@ -8,13 +8,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Freddy Dev',
   tagline: '開發筆記 & 文章集散地，讓這裡成為第二個大腦',
-  url: '/',
+  url: 'https://Freddy10-github.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Freddy10-github', // Usually your GitHub org/user name.
-  projectName: 'dev-blog', // Usually your repo name.
+  projectName: 'Freddy10-github.github.io', // Usually your repo name.
+  trailingSlash: false,
+  deploymentBranch:'gh-pages',
 
   presets: [
     [
@@ -51,7 +53,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Note',
           },
           {
             href: 'https://github.com/Freddy10-github',
