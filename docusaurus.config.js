@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Freddy Dev',
+  title: 'Freddylo',
   tagline: '開發筆記 & 文章集散地，讓這裡成為第二個大腦',
   url: 'https://Freddy10-github.github.io',
   baseUrl: '/',
@@ -47,11 +47,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Freddy Dev',
+        title: 'Freddy',
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'React/react-useEffect',
             position: 'left',
             label: 'Note',
           },
