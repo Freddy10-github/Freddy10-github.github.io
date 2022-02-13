@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Freddy10-github.github.io/</id>
-    <title>Freddy Dev Blog</title>
+    <title>Freddylo Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Freddy10-github.github.io/"/>
-    <subtitle>Freddy Dev Blog</subtitle>
+    <subtitle>Freddylo Blog</subtitle>
     <icon>https://Freddy10-github.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
